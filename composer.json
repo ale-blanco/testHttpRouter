@@ -4,8 +4,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Entrega\\": "src/Entrega",
-      "TestEntrega\\": "test/Entrega"
+      "Entrega\\": "src/Entrega"
     }
   },
   "autoload-dev": {
